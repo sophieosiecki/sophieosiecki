@@ -26,15 +26,12 @@ Welcome to my GitHub profile ✨
 </details>
 
 <details>
-  <summary>Some facts about me ✨</summary>
+<summary>Some facts about me ✨</summary>
 
-  - My favourite book is Thomas Kuhn's _The Structure of Scientific Revolutions_
-  - I studied at UCL and Cambridge
-  - I play the piano, guitar and _attempt_ to sing!
+- My favourite book is Thomas Kuhn's _The Structure of Scientific Revolutions_
+- I studied at UCL and Cambridge
+- I play the piano, guitar and _attempt_ to sing!
 </details>
-
-
-
 
 <!--
 **sophieosiecki/sophieosiecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
