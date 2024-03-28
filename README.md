@@ -26,7 +26,7 @@ Welcome to my GitHub profile ✨
 </details>
 
 <details>
-<summary>Some facts about me ✨</summary>
+<summary>Some facts about me 💫</summary>
 
 - My favourite book is Thomas Kuhn's _The Structure of Scientific Revolutions_
 - I studied at UCL and Cambridge
